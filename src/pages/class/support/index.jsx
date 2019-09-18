@@ -85,7 +85,7 @@ class index extends Component {
       }
     //   ============
     render() {
-        console.log(list,'data')
+        // console.log(list,'data')
         return (
             <PageHeaderWrapper>
                 <GGEditor className={styles.editor} style={{width:"100%"}}>
